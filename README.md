@@ -1,2 +1,2 @@
 # DataAnalystProjects
-Welcome to my Data Analyst project repository! This collection highlights the hands-on projects I’ve completed using SQL, Python, Power BI, Tableau, and Excel, showcasing my skills in data cleaning, analysis, visualization, dashboarding, and reporting.
+Welcome to my Data Analyst Portfolio! This repository showcases a collection of real-world data analysis projects built using tools such as SQL, Power BI, Tableau, Excel, and Python.
