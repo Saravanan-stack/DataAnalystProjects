@@ -1,4 +1,4 @@
-# Project Title
+# Data Analytics Project
 
 # Saravanan - Data Analyst Portfolio
 
